@@ -1,0 +1,2 @@
+total_repeat_purchases,avg_days_between_purchases,min_days_between,max_days_between,p25_days_between,median_days_between,p75_days_between,same_day_repeat,within_week,within_month,after_month
+4372,21.038197621225983,0,116,5.0,14.0,31.0,261.0,1248.0,1749.0,1114.0

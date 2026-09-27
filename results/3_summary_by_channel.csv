@@ -1,0 +1,4 @@
+acquisition_channel,num_players,avg_playtime_30d,std_playtime_30d,avg_active_days_30d,std_active_days_30d,avg_revenue_30d,std_revenue_30d,conversion_rate_30d
+organic,20159,97.7565,111.6908,4.6734,4.0949,1.6185,9.5055,0.0882
+paid_social,17857,90.9358,101.8969,4.5413,3.9692,1.4793,8.7468,0.0874
+paid_video,15473,114.8439,101.856,5.7966,3.5848,1.2995,8.5796,0.0757

@@ -1,0 +1,2 @@
+total_payers,avg_days_to_first_purchase,min_days_to_first_purchase,max_days_to_first_purchase,p25_days,median_days,p75_days,same_day_purchasers,day_1_to_7,day_8_to_30,after_day_30
+11054,53.048760629636334,-4,335,6.0,22.0,68.0,638.0,2409.0,3179.0,4718.0

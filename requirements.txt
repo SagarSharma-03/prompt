@@ -1,0 +1,24 @@
+# EA Analyst Assignment - Python Requirements
+# Compatible with Python 3.8+
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# SQL integration
+duckdb>=0.9.0
+
+# Statistical analysis
+scipy>=1.10.0
+
+# Machine learning
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optional: for presentation creation
+# python-pptx>=0.6.21
+
+# Optional: Excel output
+# openpyxl>=3.1.0
